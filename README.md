@@ -47,7 +47,7 @@ horn "You're hurting my feelings."
 ```py
 $ horn.pts.love += 1
 $ horn.pts.anger += 1
-horn("You're hurting my [horn.pts.love] feelings.")
+horn "You're hurting my feelings."
 ```
 Which is slightly better!
 
