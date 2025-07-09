@@ -17,7 +17,7 @@ $ horn = Character("Horn nii-san", color="#fff", what_font="Serif", who_font="Se
 $ horn = Person("Horn nii-san", color="#fff", what_font="Serif", who_font="Serif")
 ```
 
-###Example usage in `script.py`
+### Example usage in `script.py`
 ```py
 horn "Hello there!"
 horn.s "This is also valid."
