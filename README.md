@@ -1,5 +1,5 @@
 # Horn nii-san's **Improved** RenPy Person class
-## Minimalist, cleaner, easier!
+
 
 
 ## Improved Person Class
